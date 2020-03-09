@@ -9,6 +9,11 @@
 [2020-03-09 19:52:11.5110] - INFO - GET 200 /design/document.json 0 B (6ms)
 [2020-03-09 19:52:11.5230] - INFO - GET 404 /node_modules/framer/build/framer.debug.js 180 B (3ms)
 [2020-03-09 19:52:12.6300] - INFO - Installing dependencies…
+[2020-03-0ions: *.local, 169.254/16
+[2020-03-09 19:52:11.2730] - INFO - Project server PID: 84696
+[2020-03-09 19:52:11.5110] - INFO - GET 200 /design/document.json 0 B (6ms)
+[2020-03-09 19:52:11.5230] - INFO - GET 404 /node_modules/framer/build/framer.debug.js 180 B (3ms)
+[2020-03-09 19:52:12.6300] - INFO - Installing dependencies…
 [2020-03-09 19:52:12.7410] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (2ms)
 [2020-03-09 19:52:12.9960] - INFO - Installing dependencies - DONE. Took 366ms
 [2020-03-09 19:52:13.4050] - ERROR - Mon, 09 Mar 2020 18:52:13 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer X.app/Contents/Resources/Server/lib/server.js:129:17
@@ -22,3 +27,24 @@
 [2020-03-09 19:52:18.2340] - INFO - Updating origin: /Users/andrea/Documents/BTS/07_Interface Development/Lecture9final.framerx, last modified on: 2020-03-09 18:52:18 +0000
 [2020-03-09 19:52:18.2380] - INFO - Marking changed: false
 [2020-03-09 19:52:18.2420] - DEBUG - [Save session: 0] Completed super.save
+[2020-03-09 19:54:12.7890] - DEBUG - [Save session: 1] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-03-09 19:54:12.7890] - DEBUG - [Save session: 1] Before container.writeChanges
+[2020-03-09 19:54:12.7920] - DEBUG - [Save session: 1] Not autosaving to archive, implicitly cancellable
+[2020-03-09 19:54:12.7930] - DEBUG - [Save session: 1] Completed container.writeChanges
+
+[2020-03-09 19:55:38.6040] - INFO - Initialized with uuid 32D9F879-C052-464A-9E18-EAB611F730F1
+[2020-03-09 19:55:38.6040] - INFO - Detecting changes: origin last modified on 2020-03-09 18:55:04 +0000, project last modified on 2020-03-09 18:55:04 +0000
+[2020-03-09 19:55:38.6040] - INFO - Reading from /Users/andrea/Documents/BTS/07_Interface Development/Lecture9final.framerx (origin); preserving existing contents of project folder: true
+[2020-03-09 19:55:38.6080] - INFO - Done reading
+[2020-03-09 19:55:38.6080] - INFO - Marking changed: false
+[2020-03-09 19:55:38.7230] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2020-03-09 19:55:39.6290] - INFO - Project server PID: 84768
+[2020-03-09 19:55:39.8110] - INFO - Installing dependencies…
+[2020-03-09 19:55:39.8570] - INFO - GET 200 /design/document.json 0 B (6ms)
+[2020-03-09 19:55:39.9710] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (2ms)
+[2020-03-09 19:55:41.1760] - INFO - Installing dependencies - DONE. Took 1364ms
+[2020-03-09 19:55:41.7510] - ERROR - Mon, 09 Mar 2020 18:55:41 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer X.app/Contents/Resources/Server/lib/server.js:129:17
+[2020-03-09 19:55:55.9870] - DEBUG - [Save session: 0] Started, operation: autosaveInPlaceOperation, implicitly cancellable
+[2020-03-09 19:55:55.9870] - DEBUG - [Save session: 0] Before container.writeChanges
+[2020-03-09 19:55:55.9870] - DEBUG - [Save session: 0] Not autosaving to archive, implicitly cancellable
+[2020-03-09 19:55:56.0020] - DEBUG - [Save session: 0] Completed container.writeChanges
