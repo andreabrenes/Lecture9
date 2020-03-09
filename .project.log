@@ -52,3 +52,23 @@
 [2020-03-09 19:56:55.0660] - DEBUG - [Save session: 1] Before container.writeChanges
 [2020-03-09 19:56:55.0670] - DEBUG - [Save session: 1] Not autosaving to archive, implicitly cancellable
 [2020-03-09 19:56:55.0670] - DEBUG - [Save session: 1] Completed container.writeChanges
+[2020-03-09 19:57:42.3390] - DEBUG - [Save session: 2] Started, operation: saveOperation
+[2020-03-09 19:57:42.3390] - DEBUG - [Save session: 2] Before container.writeChanges
+[2020-03-09 19:57:42.3390] - DEBUG - [Save session: 2] Before waitUsingRecursiveRunLoop
+[2020-03-09 19:57:42.3460] - DEBUG - [Save session: 2] Completed container.writeChanges
+[2020-03-09 19:57:42.3460] - DEBUG - [Save session: 2] Completed waitUsingRecursiveRunLoop
+[2020-03-09 19:57:42.3470] - INFO - Saving to /Users/andrea/Documents/BTS/07_Interface Development/Lecture9final.framerx (origin)
+[2020-03-09 19:57:42.3570] - INFO - Done saving
+[2020-03-09 19:57:42.3590] - INFO - Updating origin: /Users/andrea/Documents/BTS/07_Interface Development/Lecture9final.framerx, last modified on: 2020-03-09 18:57:42 +0000
+[2020-03-09 19:57:42.3590] - INFO - Marking changed: false
+[2020-03-09 19:57:42.3640] - DEBUG - [Save session: 2] Completed super.save
+[2020-03-09 19:58:24.8110] - DEBUG - [Save session: 3] Started, operation: saveOperation
+[2020-03-09 19:58:24.8110] - DEBUG - [Save session: 3] Before container.writeChanges
+[2020-03-09 19:58:24.8110] - DEBUG - [Save session: 3] Before waitUsingRecursiveRunLoop
+[2020-03-09 19:58:24.8190] - DEBUG - [Save session: 3] Completed container.writeChanges
+[2020-03-09 19:58:24.8190] - DEBUG - [Save session: 3] Completed waitUsingRecursiveRunLoop
+[2020-03-09 19:58:24.8200] - INFO - Saving to /Users/andrea/Documents/BTS/07_Interface Development/Lecture9final.framerx (origin)
+[2020-03-09 19:58:24.8310] - INFO - Done saving
+[2020-03-09 19:58:24.8330] - INFO - Updating origin: /Users/andrea/Documents/BTS/07_Interface Development/Lecture9final.framerx, last modified on: 2020-03-09 18:58:24 +0000
+[2020-03-09 19:58:24.8330] - INFO - Marking changed: false
+[2020-03-09 19:58:24.8380] - DEBUG - [Save session: 3] Completed super.save
