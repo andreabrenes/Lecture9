@@ -1,0 +1,24 @@
+[2020-03-09 19:52:10.2460] - INFO - Initialized with uuid 32D9F879-C052-464A-9E18-EAB611F730F1
+[2020-03-09 19:52:10.2460] - INFO - Reading from /Users/andrea/Library/Autosave Information/Unsaved Framer X Document.framerx (draft origin); preserving existing contents of project folder: false
+[2020-03-09 19:52:10.2500] - INFO - Updating origin: /Users/andrea/Library/Autosave Information/Unsaved Framer X Document.framerx, last modified on: 2020-03-09 18:52:10 +0000
+[2020-03-09 19:52:10.2510] - INFO - Done reading
+[2020-03-09 19:52:10.2510] - INFO - Marking changed: false
+[2020-03-09 19:52:10.2520] - INFO - Marking changed: true
+[2020-03-09 19:52:10.3260] - INFO - Proxy Config: exceptions: *.local, 169.254/16
+[2020-03-09 19:52:11.2730] - INFO - Project server PID: 84696
+[2020-03-09 19:52:11.5110] - INFO - GET 200 /design/document.json 0 B (6ms)
+[2020-03-09 19:52:11.5230] - INFO - GET 404 /node_modules/framer/build/framer.debug.js 180 B (3ms)
+[2020-03-09 19:52:12.6300] - INFO - Installing dependencies…
+[2020-03-09 19:52:12.7410] - INFO - GET 200 /node_modules/framer/build/framer.debug.js 0 B (2ms)
+[2020-03-09 19:52:12.9960] - INFO - Installing dependencies - DONE. Took 366ms
+[2020-03-09 19:52:13.4050] - ERROR - Mon, 09 Mar 2020 18:52:13 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at Applications/Framer X.app/Contents/Resources/Server/lib/server.js:129:17
+[2020-03-09 19:52:18.2080] - DEBUG - [Save session: 0] Started, operation: saveAsOperation
+[2020-03-09 19:52:18.2080] - DEBUG - [Save session: 0] Before container.writeChanges
+[2020-03-09 19:52:18.2080] - DEBUG - [Save session: 0] Before waitUsingRecursiveRunLoop
+[2020-03-09 19:52:18.2260] - DEBUG - [Save session: 0] Completed container.writeChanges
+[2020-03-09 19:52:18.2260] - DEBUG - [Save session: 0] Completed waitUsingRecursiveRunLoop
+[2020-03-09 19:52:18.2270] - INFO - Saving to /Users/andrea/Documents/BTS/07_Interface Development/Lecture9final.framerx (origin)
+[2020-03-09 19:52:18.2320] - INFO - Done saving
+[2020-03-09 19:52:18.2340] - INFO - Updating origin: /Users/andrea/Documents/BTS/07_Interface Development/Lecture9final.framerx, last modified on: 2020-03-09 18:52:18 +0000
+[2020-03-09 19:52:18.2380] - INFO - Marking changed: false
+[2020-03-09 19:52:18.2420] - DEBUG - [Save session: 0] Completed super.save

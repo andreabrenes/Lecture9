@@ -1,0 +1,9 @@
+{
+	"framer": {
+		"id": "d2a24e59-30b2-4388-b9e4-931a3d8bda88"
+	},
+	"peerDependencies": {
+		"framer": "^1"
+	},
+	"author": "Andrea Brenes"
+}
